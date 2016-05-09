@@ -6,17 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\Sonja_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/4d7c513d661eecaff9ae3435358d6fc66dc420ce/dsc/Sonja_in_dsc_folder.md) | HandedOffSuccess | [Details](#b94ed3942916030f8c3115c0f7c5baf217dbae4c57)
+ [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md) | HandedOffSuccess | [Details](#2e3051f3538f2643b5714e7c2eea04d219e19fc48)
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/c32eef3d058365890ef2754a148c10e3728560ff/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec59)
  [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/c32eef3d058365890ef2754a148c10e3728560ff/dsc/Test1/OpenLoc ROCKS.md) | HandedOffFailed | [Details](#2b29976a764a8377742da0a7204dff32f89ef99f60)
  [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/c32eef3d058365890ef2754a148c10e3728560ff/dsc/Test1/SonjaFileToo.md) | HandedOffFailed | [Details](#a659f12ae049937714da659dd95d40ea9774222c61)
 
 ## Item Details
-##### <a name='b94ed3942916030f8c3115c0f7c5baf217dbae4c57'></a> Source: [dsc\Sonja_in_dsc_folder.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/4d7c513d661eecaff9ae3435358d6fc66dc420ce/dsc/Sonja_in_dsc_folder.md)
+##### <a name='2e3051f3538f2643b5714e7c2eea04d219e19fc48'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30/dsc/authoringResource.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.ar-sa.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/becc65820507228bbcf314c4c3d536eba13d1411/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ar-sa/master/Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.ar-sa.xlf)
-* Handoff Datetime: 2016-04-27 23:53:59
+* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.ar-sa.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/638903484180e5e7bbb658a4a2ba13290d492cc6/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ar-sa/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.ar-sa.xlf)
+* Handoff Datetime: 2016-05-09 21:32:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00

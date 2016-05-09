@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "4d7c513d661eecaff9ae3435358d6fc66dc420ce",
+  "LastProcessedCommit": "e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30",
   "LastTranslatedCommit": null,
   "Items": {
     "571e8662abd7ee81907d4982e0cac3398a4eda10": {
@@ -1442,7 +1442,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-04-27T23:53:59.1732481Z",
+      "HandoffDateTime": "2016-05-09T21:32:41.0586734Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -1453,7 +1453,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 388",
         "extended_information": null
       },
-      "HandoffFailureTimes": 3,
+      "HandoffFailureTimes": 4,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -1479,7 +1479,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-04-27T23:53:59.1732481Z",
+      "HandoffDateTime": "2016-05-09T21:32:41.0586734Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -1490,7 +1490,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 388",
         "extended_information": null
       },
-      "HandoffFailureTimes": 3,
+      "HandoffFailureTimes": 4,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -1516,7 +1516,7 @@
       ],
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-04-27T23:53:59.1732481Z",
+      "HandoffDateTime": "2016-05-09T21:32:41.0586734Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -1527,7 +1527,7 @@
         "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 388",
         "extended_information": null
       },
-      "HandoffFailureTimes": 3,
+      "HandoffFailureTimes": 4,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -1757,6 +1757,35 @@
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.ar-sa\\master\\Sonja_in_dsc_folder.9fced11a4d3bd93bff93f7067a2b176a308a36ce.ar-sa.xlf",
       "HandoffFileCommit": "becc65820507228bbcf314c4c3d536eba13d1411",
       "HandoffDateTime": "2016-04-27T23:53:59.1732481Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "2e3051f3538f2643b5714e7c2eea04d219e19fc4": {
+      "FileHash": "2e3051f3538f2643b5714e7c2eea04d219e19fc4",
+      "SourceFileCommit": "e0cd7ab7af86c4ab46c960612a5d3b8b8195bc30",
+      "SourceFilePath": "dsc\\authoringResource.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "dsc\\authoringResource.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.ar-sa\\master\\authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.ar-sa.xlf",
+      "HandoffFileCommit": "638903484180e5e7bbb658a4a2ba13290d492cc6",
+      "HandoffDateTime": "2016-05-09T21:32:41.0586734Z",
       "HandoffPriority": "",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
