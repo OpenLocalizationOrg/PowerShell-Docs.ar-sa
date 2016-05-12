@@ -6,17 +6,17 @@
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6a8cbd12d2e0105ac33da7c4531af4a6d755ca7c/dsc/authoringResource.md) | HandedOffSuccess | [Details](#abd70c1285a5f33e209692e746b7971926f54a588)
+ [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a2d4c47e8b7fd00370c352bbd1270ab6568b2958/dsc/partialConfigs.md) | HandedOffSuccess | [Details](#17c9149903fd6a7ce6904b03a76619795944554e44)
  [dsc\Test1\MoraviaDemo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/c32eef3d058365890ef2754a148c10e3728560ff/dsc/Test1/MoraviaDemo.md) | HandedOffFailed | [Details](#e60976865fe9b1b0115509c66b9973dea16992ec59)
  [dsc\Test1\OpenLoc ROCKS.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/c32eef3d058365890ef2754a148c10e3728560ff/dsc/Test1/OpenLoc ROCKS.md) | HandedOffFailed | [Details](#2b29976a764a8377742da0a7204dff32f89ef99f60)
  [dsc\Test1\SonjaFileToo.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/c32eef3d058365890ef2754a148c10e3728560ff/dsc/Test1/SonjaFileToo.md) | HandedOffFailed | [Details](#a659f12ae049937714da659dd95d40ea9774222c61)
 
 ## Item Details
-##### <a name='abd70c1285a5f33e209692e746b7971926f54a588'></a> Source: [dsc\authoringResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/6a8cbd12d2e0105ac33da7c4531af4a6d755ca7c/dsc/authoringResource.md)
+##### <a name='17c9149903fd6a7ce6904b03a76619795944554e44'></a> Source: [dsc\partialConfigs.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/a2d4c47e8b7fd00370c352bbd1270ab6568b2958/dsc/partialConfigs.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.ar-sa.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/654065ae6b4fb3a1106c6813ae55b8b5c7935cb7/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ar-sa/master/authoringResource.106f1f4d77068b2b95f1927b611b5f405ec7a317.ar-sa.xlf)
-* Handoff Datetime: 2016-05-11 21:08:30
+* Handoff File: [partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.ar-sa.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/c642aba131312a194dad77dd4d080751c5e30dd4/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ar-sa/master/partialConfigs.f483ab7fa1511b557780a02b5b807245f730c1b6.ar-sa.xlf)
+* Handoff Datetime: 2016-05-12 05:58:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
