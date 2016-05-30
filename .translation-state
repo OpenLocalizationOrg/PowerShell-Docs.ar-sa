@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "5d40229cc5014c159352170071b347a333a90fa5",
+  "LastProcessedCommit": "08c3d42f06cd85f71187ca8ffc90711f60eb877c",
   "LastTranslatedCommit": null,
   "Items": {
     "571e8662abd7ee81907d4982e0cac3398a4eda10": {
@@ -1492,7 +1492,7 @@
       "HasMetadata": false,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-05-12T16:36:53.5310439Z",
+      "HandoffDateTime": "2016-05-30T06:15:28.8604312Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -1500,10 +1500,10 @@
         "internal_error_retriable": false,
         "exception_message": "dsc\\Test1\\MoraviaDemo.md file with commit id c32eef3d058365890ef2754a148c10e3728560ff can not be found",
         "exception_type": "System.IO.FileNotFoundException",
-        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 389",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 397",
         "extended_information": null
       },
-      "HandoffFailureTimes": 7,
+      "HandoffFailureTimes": 8,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -1568,7 +1568,7 @@
       "HasMetadata": false,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-05-12T16:36:53.5310439Z",
+      "HandoffDateTime": "2016-05-30T06:15:28.8604312Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -1576,10 +1576,10 @@
         "internal_error_retriable": false,
         "exception_message": "dsc\\Test1\\SonjaFileToo.md file with commit id c32eef3d058365890ef2754a148c10e3728560ff can not be found",
         "exception_type": "System.IO.FileNotFoundException",
-        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 389",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 397",
         "extended_information": null
       },
-      "HandoffFailureTimes": 7,
+      "HandoffFailureTimes": 8,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
@@ -1936,7 +1936,7 @@
       "HasMetadata": false,
       "HandoffFilePath": null,
       "HandoffFileCommit": null,
-      "HandoffDateTime": "2016-05-12T16:36:53.5310439Z",
+      "HandoffDateTime": "2016-05-30T06:15:28.8604312Z",
       "HandoffPriority": "",
       "HandoffException": {
         "internal_error_code": "handoff_transform_failed",
@@ -1944,10 +1944,40 @@
         "internal_error_retriable": false,
         "exception_message": "dsc\\Test1\\OpenLoc ROCKS.md file with commit id 5d40229cc5014c159352170071b347a333a90fa5 can not be found",
         "exception_type": "System.IO.FileNotFoundException",
-        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 389",
+        "stack_trace": "   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass10_1.<GetHandoffFiles>b__1(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 397",
         "extended_information": null
       },
-      "HandoffFailureTimes": 1,
+      "HandoffFailureTimes": 2,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "63376403c162a0337b08552002ecaebacae1bf55": {
+      "FileHash": "63376403c162a0337b08552002ecaebacae1bf55",
+      "SourceFileCommit": "08c3d42f06cd85f71187ca8ffc90711f60eb877c",
+      "SourceFilePath": "README.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "TokenReference": null,
+      "FilePathList": [
+        "README.md"
+      ],
+      "HasMetadata": false,
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\PowerShell-Docs.ar-sa\\master\\README.8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d.ar-sa.xlf",
+      "HandoffFileCommit": "b90e3f6e0b1c45430b52261b92cc5297ef4149eb",
+      "HandoffDateTime": "2016-05-30T06:15:28.8604312Z",
+      "HandoffPriority": "",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
       "TargetFileCommit": null,
       "TargetFilePath": null,
       "HandbackFilePath": null,
