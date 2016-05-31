@@ -403,11 +403,11 @@
 * Handoff File: [86d829b1fcdd41e648ed0594eaf337b3726c143c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/77998e8275e04b6e118173af80b4af468bba3e44/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ar-sa/master/86d829b1fcdd41e648ed0594eaf337b3726c143c.png)
 * Handoff Datetime: 2016-04-27 21:44:12
 * Handoff Reason: IsDependency
+* Dependency From: dsc\enactingConfigurations.md, dsc\partialConfigs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: dsc\enactingConfigurations.md, dsc\partialConfigs.md
 * [Back to Top](#report-top)
 
 ##### <a name='a20dd5927999cbb3c1125bd4ff8944954abc84a925'></a> Source: [dsc\images\Pull1.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d8673d1d50c12395eab9b9aff5bc57189f5ce80b/dsc/images/Pull1.png)
@@ -416,11 +416,11 @@
 * Handoff File: [a20dd5927999cbb3c1125bd4ff8944954abc84a9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/77998e8275e04b6e118173af80b4af468bba3e44/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ar-sa/master/a20dd5927999cbb3c1125bd4ff8944954abc84a9.png)
 * Handoff Datetime: 2016-04-27 21:44:12
 * Handoff Reason: IsDependency
+* Dependency From: dsc\partialConfigs.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: dsc\partialConfigs.md
 * [Back to Top](#report-top)
 
 ##### <a name='d3008e3fe7da4c118c693d2b34a0b329780f8d8626'></a> Source: [dsc\images\Push.png](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/187b255bf024685c90c5c49affeff660aa887653/dsc/images/Push.png)
@@ -429,11 +429,11 @@
 * Handoff File: [d3008e3fe7da4c118c693d2b34a0b329780f8d86.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/77998e8275e04b6e118173af80b4af468bba3e44/ol-handoff/OpenLocalizationOrg/PowerShell-Docs.ar-sa/master/d3008e3fe7da4c118c693d2b34a0b329780f8d86.png)
 * Handoff Datetime: 2016-04-27 21:44:12
 * Handoff Reason: IsDependency
+* Dependency From: dsc\enactingConfigurations.md
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
-* Dependency From: dsc\enactingConfigurations.md
 * [Back to Top](#report-top)
 
 ##### <a name='2e0a09a025bcee8fc97e417b21a51773904a0d2e27'></a> Source: [dsc\lnxArchiveResource.md](https://github.com/OpenLocalizationOrg/PowerShell-Docs/blob/d38c872c4066242ee22cd4855b9b37adb934e8d5/dsc/lnxArchiveResource.md)
